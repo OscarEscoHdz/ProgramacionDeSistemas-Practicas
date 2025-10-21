@@ -1,0 +1,105 @@
+superball
+  evolucion
+      pocion          hyperboll1223    hiperball
+
+megapiedra
+         pluser
+reuniclus        minum  ditto     tangela  poke-variable1
+
+
+evolucion
+pocion
+hiperball
+megapiedra
+
+
+
+pluser
+reuniclus
+minum
+ditto
+tangela
+
+
+
+
+/pikachu/hola mundo
+/pikachu/variable x
+/pikachu/2024
+/pikachu/fin código
+/pikachu/esto es un comentario
+
+
+
+/pikachu*/ comentario largo */pikachu/
+/pikachu*/ múltiples
+líneas aquí */pikachu/
+/pikachu*/ con asterisco * */pikachu/
+/pikachu*/ bloque prueba */pikachu/
+/pikachu*/ vacío */pikachu/
+
+
+
+poke-variable1
+poke-test
+poke-abc
+poke-x1
+poke-mivar
+
+
+
+
+metapod#ash:25
+metapod#Misty:3.14
+metapod#Brock:-10
+metapod#Pikachu:0
+metapod#Ash:100
+
+
+
+inteleon:0
+inteleon:100
+inteleon:-5
+inteleon:42
+inteleon:999
+
+
+
+floatzel:3.14
+floatzel:-0.5
+floatzel:-99.99
+
+
+
+inteleon:2xerneasfloatzel:3.0
+floatzel:5.4xerneasfloatzel:1.5
+inteleon:10XERNEASfloatzel:2.0
+floatzel:0.1xerneasfloatzel:1.0
+inteleon:100xerneasfloatzel:-1.0
+
+
+
+
+
+@@hola mundo@@
+@@12345@@
+@@variable x@@
+@@texto con @@@
+@@cadena vacía@@
+
+
+
+poke&&&&&
+
+Pokevariable
+pokeVariable
+
+23456789
+23456789
+23456789
+
+!"#$%&/
+!"#$%&/(
+!"#$%&/()=")
+
+poke 		poke
